@@ -12,7 +12,7 @@ Things you need to install to run the create the activity
 
 ## Capture
 
-![alt text](http://imgbox.com/bJWIalfN" target="_blank"><img src="https://thumbs2.imgbox.com/55/ae/bJWIalfN_t.png)
+![alt text](https://thumbs2.imgbox.com/55/ae/bJWIalfN_t.png)
 
 ## Deployment
 
