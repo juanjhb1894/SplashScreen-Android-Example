@@ -1,28 +1,20 @@
-# Splash Screen for Android
+# Android Examples
 
-A splash screen is a graphical control element consisting of a window containing an image, a logo, and the current version of the software.
+All examples found in this repository are created for didactic purposes. If further explanation is needed go to the YouTube tutorial, the link is gonna be contained in the file: tuto.txt of each example.
 
 ## Description
 
-This is an example code of how to make a splash screen on android studio. Full video tutorial in Youtube
+This repository contains example projects created with Android Studio.
 
 ### Prerequisites
 
-Things you need to install to run the create the activity
+* [Android Studio](http://www.dropwizard.io/1.0.2/docs/) - IDE
+* [Api 21]() - The API version or higher
 
 ## Capture
 
 ![alt text](https://thumbs2.imgbox.com/55/ae/bJWIalfN_t.png)
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Android Studio](http://www.dropwizard.io/1.0.2/docs/) - IDE
-* [Api 26]() - The API version
-
 ## Acknowledgments
 
-* This screen is the first screen in most of the popular android aplications hope you like, customize and enjoy the code.
+* Hope it helps, customize and enjoy the code.
