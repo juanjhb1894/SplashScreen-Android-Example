@@ -9,7 +9,7 @@ This repository contains example projects created with Android Studio.
 ### Prerequisites
 
 * [Android Studio](http://www.dropwizard.io/1.0.2/docs/) - IDE
-* [Api 21]() - The API version or higher
+* [Api 21](https://developer.android.com/about/versions/android-5.0) - The API version or higher
 
 ## Capture
 
